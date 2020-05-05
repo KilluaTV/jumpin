@@ -1034,7 +1034,7 @@ function Create_Llama_Info () {
   info_btns.setAttribute("title", "Whats New SmokeyLlama")
   info_btns.innerHTML = `
 <img src="https://cdn.jsdelivr.net/gh/SmokeyLlama/JumpinLlama@9ada4fbd26a289f24d0416136e05ae449c748437/images/llamaicon.png" width="20px">
-<span class="mobileHidden" id="">Llama Info</span>
+<span class="mobileHidden" id="">Wolfie</span>
 `
   info_box.appendChild(info_btns)
   info_box.insertBefore(info_btns, null)
